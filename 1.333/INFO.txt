@@ -1,0 +1,2 @@
+ckey = QKgLHR
+version = 1.333
