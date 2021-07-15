@@ -1,0 +1,4 @@
+Version: 1.232
+Ckey: yxjfzqwxlq
+Vkey: 34.122
+Ports: [443, 44440, 44444, 5555, 3724, 6112]
