@@ -1,0 +1,36 @@
+.artigo{
+	box-sizing: border-box;
+	padding: 10px;
+}
+.info-perfil h4{
+	font-size: 24px;
+	margin: 0;
+}
+.info-perfil h4 span{
+	font-size: 15px;
+}
+.info-perfil h6{
+	margin: 0px;
+	margin-top: 20px;
+	font-size: 17px;
+	color: crimson;
+}
+
+.artigotitulo{
+	padding: 5px;
+	margin-bottom: 0;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.artigotitulo h1{
+	font-size: 24px;
+}
+
+.artigo-perfil{
+	background: #0000003b;
+	padding: 10px;
+	border-radius: 20px;
+	overflow: hidden;
+	box-sizing: border-box;
+}

@@ -1,0 +1,354 @@
+﻿body{
+	margin: 0;
+	padding: 0;
+	background-color: #2e5e73;
+	font-family: Arial;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+}
+
+.linha{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.col{
+	float: left;
+	overflow: hidden;
+}
+
+.col1{
+	width: 10%;
+}
+
+.col2{
+	width: 20%;
+}
+
+.col3{
+	width: 30%;
+}
+
+.col4{
+	width: 40%;
+}
+
+.col5{
+	width: 50%;
+}
+
+.col6{
+	width: 60%;
+}
+
+.col7{
+	width: 70%;
+}
+
+.col8{
+	width: 80%;
+}
+
+.col9{
+	width: 90%;
+}
+
+.col10{
+	width: 100%;
+}
+
+/* Re-Utilizaveis */
+
+.smargin{
+	margin: 0!important;
+}
+
+.spaddin{
+	padding: 0!important;
+}
+
+.margin{
+	margin: 50px auto;
+}
+
+.padding{
+	padding: 50px 0;
+}
+
+.boxp{
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+.slist{
+	list-style: none;
+}
+
+.voarD{
+	float: right;
+}
+
+.voarE{
+	float: left;
+}
+
+.centC{
+	float: none!important;
+	margin: auto;
+}
+
+.centT{
+	text-align: center;
+}
+
+.bg{
+	background-color: #1c3b48;
+}
+
+.bg2{
+	background-color: #2e5e73;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.menuH li{
+	display: inline-block;
+}
+
+.menuH li a{
+	padding: 8px 18px;
+	display: block;
+}
+
+.hidden{
+	overflow: hidden;
+}
+
+.bd{
+	border-radius: 15px;
+}
+.max{
+	width: max-content;
+}
+
+.hr{
+	height: 2px;
+	background-color: white;
+	margin: 8px 0;
+}
+
+/* Botoes */
+
+.azul{
+	background-color: #1289a7;
+	transition: 0.5s;
+	color: white;
+}
+
+.azul:hover{
+	background-color: #14b8e1;
+}
+
+
+/* Estilização */
+
+.header{
+	background-color: #1289A7;
+	border-bottom: 2px solid white;
+}
+
+.titulo{
+	color: white;
+	font-size: 29px;
+	line-height: 15px;
+}
+
+.menuP{
+	margin: 17px 0;
+}
+
+.menuP li a{
+	color: white;
+	border-radius: 13px;
+	font-size: 17px;
+}
+
+.menuP li a:hover{
+	background-color: #12b4dd;
+}
+
+.status-index{
+	box-sizing: border-box;
+	background-color: white;
+	padding: 9px;
+	margin-top: 16px;
+	color: #265151;
+}
+
+/* Jogo */
+
+.jogo{
+	width: 800px;
+	height: 600px;
+	border: 10px solid #2e5e73;
+	border-radius: 8px;
+	position: relative;
+}
+
+/* Postagem */
+
+.post{
+	box-sizing: border-box;
+	padding: 15px;
+	overflow: hidden;
+	margin-top: 40px;
+}
+
+.foto{
+	width: 125px;	
+}
+
+.foto img{
+	width: 120px;
+	height: 120px;
+	overflow: hidden;
+	border-radius: 15px;
+	border: 2px solid white;
+	clear: both;
+}
+.info-perfil{
+	margin-left: 132px;
+	color: white;
+}
+.info-perfil h5{
+	font-size: 25px;
+	margin: 0;
+}
+.info-perfil span{
+	font-size: 12px;
+}
+.info-perfil h3{
+	margin: 0;
+	margin-top: 25px;
+	font-size: 26px;
+}
+.conteudo a{
+	color: cyan;
+	text-decoration: underline;
+	text-transform: capitalize;
+}
+.conteudo{
+	color: white;
+	clear: both;
+}
+.conteudo h4::before{
+	color: yellow;
+	content: "\2605  ";
+}
+.conteudo h4{
+	font-size: 18px;
+	margin: 0;
+	padding: 15px 0 0 5px;
+	color: white;
+}
+.conteudo ul{
+	padding-left: 15px;
+}
+
+/* Footer */
+
+.footer div{
+	padding: 8px 0;
+}
+
+.footer span{
+	background-color: #2e5e73;
+	padding: 10px 21px;
+	border-radius: 20px;
+	/*color: #2fe1e1;*/
+	text-transform: capitalize;
+}
+
+.buttonz{
+	padding: 0;
+	margin: 0;
+	border-style: solid color white;
+	color: #1c3b48;
+	border: 2px;
+}
+
+.butts a{
+	background-color: white;
+	border: none;
+	color: #1c3b48;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+/* POPUP */
+
+.game-msg{
+	width: 400px;
+    border-radius: 15px;
+    padding: 30px;
+    color: white;
+    border: 5px solid #2e5e73;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+    background-color: #1c3b48;
+}
+.game{
+	background-color: #000000c9;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.game-btns{
+	padding: 30px 0;
+}
+.game-btns a,
+.game-btns button{
+	margin: 0 10px;
+	font-size: 14px;
+	height: 100%;
+}
+
+.verde{
+	background-color: #12a722!important;
+}
+.verde:hover{
+	background-color: #2ddb27!important;
+}
+.azul{
+	background-color: #1289a7;
+	transition: 0.5s;
+}
+.azul:hover{
+	background-color: #14b8e1;
+}
+
+.botao{
+	padding: 10px 25px;
+	color: white;
+	border-radius: 5px;
+	text-decoration: none;
+	border: 0;
+	cursor: pointer;
+}
+.b{
+	font-weight: bold;
+	font-size: 17px;
+	font-family: arial;
+}

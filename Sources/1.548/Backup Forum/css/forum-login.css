@@ -1,0 +1,14 @@
+.login-box{
+	margin-top: 10%;
+	padding: 30px 20px;
+	color: white;
+}
+.login-box h2{
+	margin: 10px 0;
+}
+.form-forum input, .formedit{
+	width: 90%;
+	height: 30px;
+	margin: 15px 0;
+	text-align: center;
+}

@@ -1,0 +1,24 @@
+input[type=text], textarea{
+	width: 95%;
+	background: transparent;
+	border: none;
+	color: white;
+	text-align: center;
+}
+
+input[type=text]{
+	font-size: 24px;
+	padding: 10px 0;
+	font-weight: bold;
+}
+
+textarea{
+	height: 300px;
+	padding: 20px 0;
+	font-size: 16px;
+	resize: vertical;
+}
+
+.botao{
+	padding: 10px 50px!important;
+}

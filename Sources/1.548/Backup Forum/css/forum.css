@@ -1,0 +1,112 @@
+.botao{
+	border: 0;
+	height: auto!important;
+	padding: 10px;
+	cursor: pointer;
+}
+.fbtao input{
+	padding: 10px;
+}
+
+.forum-tabelas{
+	padding: 20px 0;
+	margin: 20px auto;
+}
+
+.forum-tabela{
+	margin: 20px auto;
+	color: white;
+	border-radius: 20px;
+	overflow: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	background-color: #1c3b48;
+	height: 60px;
+}
+.header-tabela{
+	box-sizing: border-box;
+	padding: 0 10px;
+	margin: 7px 0;
+	overflow: hidden;
+}
+.header-tabela h2,
+.header-tabela span{
+	margin: 5px 0;
+	padding: 0;
+	color: white;
+}
+.header-tabela span{
+	margin: 10px;
+	font-size: 30px;
+}
+.bodys-forum{
+	padding: 5px 0;
+	overflow: hidden;
+	border-radius: 25px;
+}
+.body-forum a{
+	color: white;
+}
+.body-forum{
+	background-color: #142a33;
+	box-sizing: border-box;
+	width: 99%!important;
+	margin: 0px 0.5%;
+	padding: 2px 2px;
+}
+.forum-body-header{
+	box-sizing: border-box;
+	padding: 5px;
+	overflow: hidden;
+}
+.body-forum:nth-child(2n) {
+    background-color: #0000002b;
+}
+.menu-header{
+	margin: 0;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.menu-forum li a{
+	color: white;
+	background-color: #112731;
+	border-radius: 5px;
+}
+.menu-forum li a:hover,
+.menu-forum li a:active{
+	background-color: #0e2028;
+}
+.menu-conteudo{
+	margin: 10px;
+	display: none;
+}
+.menu-conteudo:target{
+	display: block;
+}
+.menu-conteudo span{
+	display: block;
+	padding: 2px 0;
+}
+
+.verde{
+	background-color: #0abd0a;
+	color: white;
+}
+
+.verde:hover{
+	background-color: #09d909;
+}
+
+.forum-tabela:target{
+	height: auto;
+}
+
+.fa{
+	color: white!important;
+}
+
+.inputinv{
+	background-color: transparent;
+	border: 0;
+	color: white;
+}

@@ -1,0 +1,27 @@
+.secoes{
+	margin: 10px auto;
+}
+.post{
+	margin-top: 10px
+}
+.secao{
+	border-radius: 15px;
+}
+.info-secao{
+	text-align: right;
+	font-size: 13px;
+	margin-top: 5px;
+}
+
+.titulo-secao h2{
+	margin: 0;
+}
+
+.titulo-secao a{
+	color: white;
+}
+
+.fa{
+	margin-left: 5px;
+	font-size: 15px!important;
+}

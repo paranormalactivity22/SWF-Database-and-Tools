@@ -1,0 +1,38 @@
+.botao-ranking,
+.input-ranking input{
+	border: 0;
+	padding: 5px 10px;
+	border-radius: 30px;
+}
+.ranking{
+	color: white;
+	padding: 20px 0;
+	margin: 20px auto;
+}
+.botao-ranking{
+	cursor: pointer;
+	color: white;
+}
+.menu-ranking{
+	padding: 10px;
+	margin: 10px 0;
+	background-color: #1c3b48;
+	border-radius: 15px;
+	width: max-content;
+}
+.ranking-lista table{
+	background-color: #1c3b48;
+	border-radius: 15px;
+	padding: 10px 0;
+	overflow: hidden;
+}
+.ranking-lista table{
+	border-collapse: collapse;
+}
+.ranking-lista table tr th{
+	padding: 10px 0;
+}
+.ranking-lista table tr td{
+	padding: 7px 0;
+	background-color: #142a33;
+}
