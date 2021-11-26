@@ -1,0 +1,75 @@
+# -*- coding: cp1252 -*-
+import sys
+class EventTokens():
+        ConnectionKey = "mxceryoroncil971";
+        Login = "\x0e\x0e";
+        ##########################
+        ModoPwet = "h'";
+        BanHack = "44";
+        CloseReport = "S2";
+        Watch = "41";
+        LangueMP = "SE";
+        ##########################
+        Particule = "*l";
+        NewCroush = "*b";
+        MajPosition = "**";
+        Morte = "*]";
+        Toca = "]O";
+        Queijo = "]6";
+        Remover = "FY";
+        Arquiteto = "FS";
+        Projesao = "F1";
+        Shaman = "F\x1d";
+        DestructionObject = "_3";
+        Icecube = "F#";
+        DefilantePoints = "F\x1f";
+        ##########################
+        Chat = "99";
+        ChatMod = 'eM';
+        ##########################
+        Report = "-\x15";
+        SelectLangues = "\\`"#'"2'
+        Emotions = "\\\x0e";
+        Meep = "J5";
+        ViewVamps = "I\x12";
+        Ping = "\\(";
+        ClickDay = "67";
+        BuySkills = "-3";
+        Asas = "\x0cY";
+        RedistribuiPoints = '-\x01'
+        ##########################
+        Shop = 'Q\x06';
+        Shop2 = '\\Q';
+        Custom = "Q\x03";
+        Equipe = "QO";
+        Buyitens = "Q6";
+        BuyCustom = "QQ";
+        BuyRoup = 'Q\x1b'
+        SalvRoup = "Qa"
+        UseRoup = "Q9"
+        ##########################
+        TribeHouse = "^\x0e";
+        UpdateMapHouse = "qw";
+        ##########################
+        Transformice = "T_";
+        ShopFraises = 'NM';
+        LuaScript = "\x0f\x0e";
+        Others = "< ";
+        SpeedMouse = "I\x12";
+        PressKey = "l\x12";
+        ###########################
+        ActiveHardMode = 'W&';
+        ColorHardMode = "W(";
+        Stats = "W\x1b";
+        EmailAddress = "W\x0e";
+        ChangePassword = "W1";
+        ValidationCode = "W!";
+        Password = "WS";
+        Communited = "\n\x0e";
+        Monde = "W ";
+        ############################
+        doce = "\x05\x17";
+        smileys = '\\]';
+
+if __name__=="__main__":
+    EventTokens()
