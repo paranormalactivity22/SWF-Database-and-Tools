@@ -1,0 +1,3 @@
+Ckey: BkuSnTRmGt
+Ip: 127.0.0.1
+Versão: 1.353
