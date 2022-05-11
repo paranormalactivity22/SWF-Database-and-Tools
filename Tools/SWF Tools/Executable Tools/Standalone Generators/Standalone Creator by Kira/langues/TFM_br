@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<langues>
+  <br key="$programTitle" value="Criador de Standalone"/>
+  <br key="$settingBorder" value="Definições"/>
+  <br key="$configBorder" value="Configurações"/>
+  <br key="$standName" value="Nome:"/>
+  <br key="$standTitle" value="Titúlo:"/>
+  <br key="$standDescription" value="Descrição:"/>
+  <br key="$standMinimizable" value="Minimizável:"/>
+  <br key="$standMaxmizable" value="Maxmizável:"/>
+  <br key="$standResizable" value="Redimensionável:"/>
+  <br key="$standUndecorated" value="Sem Borda:"/>
+  <br key="$standMinSize" value="Tamanho Minimo:"/>
+  <br key="$standMaxSize" value="Tamanho Máximo:"/>
+  <br key="$standLocX" value="Posição X:"/>
+  <br key="$standLocY" value="Posição Y:"/>
+  <br key="$buttomCreate" value="Criar Standalone"/>
+  <br key="$buttomPreview" value="Pré-visualizar"/>
+  <br key="$buttomSaveSettings" value="Salvar Definições" />
+  <br key="$textCredits" value="Criado por:"/>
+  <br key="$buttomUndecoreated" value="Este botão não irá aparecer no standalone" />
+  <br key="$finishTitle" value="Sucesso!" />
+  <br key="$finishText" value="Standalone criado com sucesso!" />
+  <br key="$finishTitleError" value="Opps ;(" />
+  <br key="$finishTextError" value="Opps houve algum erro ao criar o standalone" />
+  <br key="$settingsSavedText" value="Definições salvas com sucesso!" />
+  <br key="$settingsSavedErrorText" value="Opps houve algum erro ao salvar as definições" />
+  <br key="$settingsLangueText" value="Idioma:" />
+  <br key="$settingsColor" value="Cor de destaque:" />
+  <br key="$settingsTheme" value="Tema:,Claro.Escuro" />
+  <br key="$settingsSave" value="Salvar" />
+  <br key="$settingsClose" value="Fechar" />
+</langues>

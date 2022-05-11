@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <set key="$Tribulle" value="http://www.transformice.com/tribulle.swf" />
+  <set key="$Transformice" value="http://www.transformice.com/transformice.swf" />
+  <set key="$Bouboum" value="http://www.bouboum.com/transformice.swf" />
+  <set key="$Forteresse" value="http://www.fortoresse.com/transformice.swf" />
+  <set key="$Nekodancer" value="http://www.nekodancer.com/nk.swf" />
+  <set key="$Name" value="Transformice" />
+  <set key="$Title" value="Transformice!" />
+  <set key="$Description" value="Fromage!" />
+  <set key="$Minimizable" value="true" />
+  <set key="$Maxmizable" value="true" />
+  <set key="$Resisable" value="true" />
+  <set key="$Undecorated" value="false" />
+  <set key="$MinSize" value="800,600,false" />
+  <set key="$MaxSize" value="800,600,false" />
+  <set key="$LocX" value="0" />
+  <set key="$LocY" value="0" />
+  <set key="$Location" value="false" />
+  <set key="$Thema" value="0" />
+  <set key="$BorderColor" value="27,169,254" />
+  <set key="$Langue" value="us" />
+</settings>

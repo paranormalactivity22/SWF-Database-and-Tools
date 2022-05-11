@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<langues>
+  <en key="$programTitle" value="Standalone Creator"/>
+  <en key="$settingBorder" value="Settings"/>
+  <en key="$configBorder" value="Configurations"/>
+  <en key="$standName" value="Name:"/>
+  <en key="$standTitle" value="Title:"/>
+  <en key="$standDescription" value="Description:"/>
+  <en key="$standMinimizable" value="Minimizable:"/>
+  <en key="$standMaxmizable" value="Maxmizable:"/>
+  <en key="$standResizable" value="Resisable:"/>
+  <en key="$standUndecorated" value="Rimless:"/>
+  <en key="$standMinSize" value="Minimum Size:"/>
+  <en key="$standMaxSize" value="Maximum Size:"/>
+  <en key="$standLocX" value="Location X:"/>
+  <en key="$standLocY" value="Location Y:"/>
+  <en key="$buttomCreate" value="Create Standalone"/>
+  <en key="$buttomPreview" value="Preview"/>
+  <en key="$buttomSaveSettings" value="Save Settings" />
+  <en key="$textCredits" value="Created by:"/>
+  <en key="$buttomUndecoreated" value="This button will not appear in the standalone" />
+  <en key="$finishTitle" value="Success!" />
+  <en key="$finishText" value="Standalone created successfully!" />
+  <en key="$finishTitleError" value="Opps ;(" />
+  <en key="$finishTextError" value="Opps, there was an error when creating the standalone" />
+  <en key="$settingsSavedText" value="Settings saved successfully!" />
+  <en key="$settingsSavedErrorText" value="Opps, there was an error when saving settings" />
+  <en key="$settingsLangueText" value="Language:" />
+  <en key="$settingsColor" value="Highlight Color:" />
+  <en key="$settingsTheme" value="Theme:,Light.Dark" />
+  <en key="$settingsSave" value="Save" />
+  <en key="$settingsClose" value="Close" />
+</langues>
